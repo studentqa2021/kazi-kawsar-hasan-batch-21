@@ -1,0 +1,32 @@
+package com.interview;
+
+public class Shams {
+	int a;
+	shams() {
+	}
+	}
+	
+	 void getsalary(int a){
+		 
+		 System.out.println(a);
+		
+	}
+	void getmoney(int a) {
+		
+		System.out.println(a);
+		
+	}
+	void getincome(int a) {
+		
+		System.out.println(a);
+	}
+	
+	public static void main(String[] args) {
+		
+		Shams obj=new Shams();
+				obj.getsalary();
+				obj.getmoney();
+				obj.getincome();
+	}
+}
+
